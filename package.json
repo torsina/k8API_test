@@ -1,0 +1,22 @@
+{
+  "name": "k8api_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torsina/k8API_test.git"
+  },
+  "author": "torsina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/torsina/k8API_test/issues"
+  },
+  "homepage": "https://github.com/torsina/k8API_test#readme",
+  "dependencies": {
+    "@kubernetes/client-node": "^0.7.2"
+  }
+}
